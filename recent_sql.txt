@@ -1,2 +1,0 @@
-ALTER TABLE `xu2_servers` ADD INDEX ( `url` ) ;
-ALTER TABLE `xu2_files` ADD INDEX ( `server` ) ;
